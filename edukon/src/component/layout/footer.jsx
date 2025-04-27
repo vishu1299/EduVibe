@@ -219,7 +219,7 @@ const Footer = () => {
           <div className="container">
             <div className="section-wrapper">
               <p>
-                &copy; 2025 <Link to="/">EduVibe</Link> Designed by{" "}
+                &copy; 2025 <Link to="/">EduVibe</Link> Designed by {" "}
                 <a href="" target="_blank">
                   Vishwas
                 </a>{" "}
